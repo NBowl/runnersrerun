@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEditor;
+using UnityEngine.UI;
 
 public class SkinManager : MonoBehaviour
 {
-    public SpriteRenderer sr;
-    public SpriteRenderer sm;
+    public Image sr;
+    public Image sm;
     public List<Sprite> skins = new List<Sprite>();
     public List<Sprite> skinname = new List<Sprite>();
     private int selectedSkin = 0;
