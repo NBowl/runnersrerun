@@ -21,7 +21,7 @@ public class Functions : MonoBehaviour
 	Debug.Log(Startup.charMover.transform.position);
 	Startup.optMover.transform.position = new Vector3(5500, 5500, 0);
 	//Startup.tutorialMover.transform.position = new Vector3(5500, 5500, 0);
-        Startup.mainMover.transform.position = new Vector3(400,220, 0);
+        Startup.mainMover.transform.position = new Vector3(400,300, 0);
 	
 }
     public void optionsClick() {
