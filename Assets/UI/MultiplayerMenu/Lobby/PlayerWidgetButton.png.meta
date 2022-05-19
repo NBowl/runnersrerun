@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 956d12d226ef1b24f88b136e0fc46073
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2179673870854829974
+    second: PlayerWidgetButton_0
+  - first:
+      213: -2815037981503384946
+    second: PlayerWidgetButton_1
+  - first:
+      213: -8023891173056493140
+    second: PlayerWidgetButton_2
+  - first:
+      213: 299361018817256293
+    second: PlayerWidgetButton_3
+  - first:
+      213: -8556469771570793300
+    second: PlayerWidgetButton_4
+  - first:
+      213: 4445508929451459067
+    second: PlayerWidgetButton_5
+  - first:
+      213: 8944324231184605415
+    second: PlayerWidgetButton_6
+  - first:
+      213: -790718679139706242
+    second: PlayerWidgetButton_7
+  - first:
+      213: 1692008880246463047
+    second: PlayerWidgetButton_8
+  - first:
+      213: 5326814610209386168
+    second: PlayerWidgetButton_9
+  - first:
+      213: 3063837021661170607
+    second: PlayerWidgetButton_10
+  - first:
+      213: 6949783312248286470
+    second: PlayerWidgetButton_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +77,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +111,273 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PlayerWidgetButton_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 172
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b08e46d1cf3e10800000000000000
+      internalID: 2179673870854829974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 51
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82124bded9fee8d0800000000000000
+      internalID: -2815037981503384946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 51
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca943919d7965a090800000000000000
+      internalID: -8023891173056493140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 51
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b9332b24b872400800000000000000
+      internalID: 299361018817256293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_4
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 51
+        width: 175
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4b72ea310514980800000000000000
+      internalID: -8556469771570793300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 51
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf108c961de91bd30800000000000000
+      internalID: 4445508929451459067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 172
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e06dabcf7f902c70800000000000000
+      internalID: 8944324231184605415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a9c9cfc8dc605f0800000000000000
+      internalID: -790718679139706242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a95e7ac193b7710800000000000000
+      internalID: 1692008880246463047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be24e15aa5ace940800000000000000
+      internalID: 5326814610209386168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_10
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1
+        width: 174
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab0ecdc98fe48a20800000000000000
+      internalID: 3063837021661170607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWidgetButton_11
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1
+        width: 171
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2f78d917927060800000000000000
+      internalID: 6949783312248286470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
