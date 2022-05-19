@@ -13,7 +13,6 @@ public class Settings : MonoBehaviour
     public void OnSliderValueChanged(float value)
 {
 	audioMixer.SetFloat("Volume", Mathf.Log10(value) * 20);
-	currentVolume = value;
 }
 
 public void SetFullscreen(bool isFullscreen)
